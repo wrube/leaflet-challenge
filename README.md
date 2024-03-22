@@ -16,4 +16,5 @@ The USGS is interested in building a new set of tools that will allow them to vi
 - [static/data/plates.json](./static/data/plates.json) GeoJSON file containing additional tectonic boundary information
 - [index.html](index.html) Main html for map display.
 
-A
+A deployed version of this html map is located [https://wrube.github.io/leaflet-challenge/](https://wrube.github.io/leaflet-challenge/).
+
