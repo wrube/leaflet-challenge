@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+.legend {
+  line-height: 18px;
+  color: #555;
+  margin-left: 12px;
+  font-size: medium;
+}
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  margin-left: 12px;
+
+  
+}
+.info {
+  background-color: white;
+  margin-left: 20%;
+  margin-bottom: 20%;
+  opacity: 0.8;
+}
+
+.title {
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.colourbox {
+  margin-bottom: 15px;
+
+}
